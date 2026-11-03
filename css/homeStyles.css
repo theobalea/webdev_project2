@@ -45,6 +45,8 @@ main {
 /* Style 3: Centered blue main heading. */
 h1 {
   color: #174c76;
+  background-color: #d4e8fa;
+  border: 2px solid #174c76;
   text-align: center;
   font-size: 2em;
 }
@@ -61,6 +63,8 @@ h2 {
 main p {
   line-height: 1.6;
   font-size: 1.05em;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 /* Style 6: Centered image with a simple border. */
@@ -68,7 +72,7 @@ main img {
   display: block;
   max-width: 90%;
   height: auto;
-  margin: 20px auto;
+  margin: 25px auto;
   border: 3px solid #174c76;
 }
 

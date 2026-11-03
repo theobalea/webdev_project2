@@ -63,6 +63,8 @@ h2 {
 main p {
   line-height: 1.6;
   font-size: 1.05em;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 /* Style 6: Centered pictures with white borders. */
