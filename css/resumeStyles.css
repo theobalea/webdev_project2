@@ -1,6 +1,5 @@
-/* RESUME PAGE - Simple white resume on a gray background. */
+/* Navigation: Same on all three pages */
 
-/* NAVIGATION: Same rules on all three pages. Not counted as a style. */
 nav {
   background-color: #333333;
 }
@@ -27,7 +26,7 @@ nav ul li a:hover {
   background-color: #555555;
 }
 
-/* Style 1: Gray background and basic font. */
+/* Style 1: Gray background and basic font */
 body {
   margin: 0;
   background-color: #e5e5e5;
@@ -35,7 +34,7 @@ body {
   font-family: Arial, sans-serif;
 }
 
-/* Style 2: Fixed-width resume page. */
+/* Style 2: Adjusted width for whole page */
 main {
   width: 850px;
   max-width: 90%;
@@ -46,7 +45,7 @@ main {
   box-sizing: border-box;
 }
 
-/* Style 3: Large, centered name. */
+/* Style 3: Large and centered name */
 h1 {
   color: #183d63;
   text-align: center;
@@ -54,7 +53,7 @@ h1 {
   margin-bottom: 5px;
 }
 
-/* Style 4: Centered contact information. */
+/* Style 4: Centered contact information */
 .contact {
   text-align: center;
   color: #555555;
@@ -62,7 +61,7 @@ h1 {
   padding-bottom: 15px;
 }
 
-/* Style 5: Navy section headings with a line below. */
+/* Style 5: Navy section headings with underline */
 h2 {
   color: #183d63;
   border-bottom: 1px solid #999999;
@@ -70,14 +69,14 @@ h2 {
   margin-top: 25px;
 }
 
-/* Style 6: Slightly smaller subsection headings. */
+/* Style 6: Smaller subsection headings */
 h3 {
   color: #333333;
   font-size: 1.1em;
   margin-bottom: 5px;
 }
 
-/* Style 7: Readable paragraph spacing. */
+/* Style 7: Readable paragraph spacing */
 main p {
   line-height: 1.5;
   margin-top: 8px;
@@ -86,7 +85,7 @@ main p {
   padding-right: 5px;
 }
 
-/* Style 8: Neat bullet lists. */
+/* Style 8: Adjusted bullet lists */
 main li {
   line-height: 1.5;
   margin-bottom: 5px;
